@@ -1,5 +1,5 @@
 # BreakOut.js
-BreakOut Game 
+BreakOut Game on JavaScript
 Date Created: 12/6/2021 (Month, Day, Year)
 ___________________________________________________________________________________________________________________________________________________________
 Design, create and succesfully executed BreakOut Game using javascript programming language.
